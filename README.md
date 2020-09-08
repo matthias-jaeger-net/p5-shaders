@@ -1,7 +1,7 @@
 # p5-shaders
 A few basic shaders in a p5 sktech
 
-# Color shader example
+# Color shader
 ```glsl
 // frag.txt
 // p5-shader-examples 
