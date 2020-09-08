@@ -2,7 +2,7 @@
 A few basic shaders in a p5 sktech
 
 # Color shader example
-´´´glsl
+```glsl
 // frag.txt
 // p5-shader-examples 
 // Author Matthias Jäger
@@ -20,7 +20,7 @@ void main()
   // returns a variable (red, green, blue, alpha)
   gl_FragColor = vec4(vec3(0.0), 1.0);
 }
-´´´
+
 
 
 
